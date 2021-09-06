@@ -1,0 +1,143 @@
+Conversions
+-------------------
+1. Decimal
+2. Binary
+3. Octal
+4. Hex
+5. List
+To exit, enter any other number
+
+Enter # for type of conversion: 1
+Enter decimal #: 32
+
+---------------------------------
+Binary: 100000
+Octal : 40
+Hex   : 20
+2's   : 0000000000100000
+---------------------------------
+Enter # for type of conversion (5 for list): 1
+Enter decimal #: 52
+
+---------------------------------
+Binary: 110100
+Octal : 64
+Hex   : 34
+2's   : 0000000000110100
+---------------------------------
+Enter # for type of conversion (5 for list): 2
+Enter binary #: 101110
+
+---------------------------------
+Decimal: 46
+Octal  : 56
+Hex    : 2E
+2's    : 0000000000101110
+---------------------------------
+Enter # for type of conversion (5 for list): 2
+Enter binary #: 01001110
+
+---------------------------------
+Decimal: 78
+Octal  : 116
+Hex    : 4E
+2's    : 0000000001001110
+---------------------------------
+Enter # for type of conversion (5 for list): 3
+Enter Octal #: 213 
+
+---------------------------------
+Decimal : 139
+Binary  : 10001011
+
+Hex     : 8B
+2's     : 0000000010001011
+---------------------------------
+Enter # for type of conversion (5 for list): 4321
+    ~/School/Current_Classes/CS066/programs/BitConverter    master ?1  ./main.exe                                                                                                        ✔  35s  
+
+
+Conversions
+-------------------
+1. Decimal
+2. Binary
+3. Octal
+4. Hex
+5. List
+To exit, enter any other number
+
+Enter # for type of conversion: 1
+Enter decimal #: 32
+
+---------------------------------
+Binary: 100000
+Octal : 40
+Hex   : 20
+2's   : 0000000000100000
+---------------------------------
+Enter # for type of conversion (5 for list): 1
+Enter decimal #: 52
+
+---------------------------------
+Binary: 110100
+Octal : 64
+Hex   : 34
+2's   : 0000000000110100
+---------------------------------
+Enter # for type of conversion (5 for list): 2
+Enter binary #: 10001
+
+---------------------------------
+Decimal: 17
+Octal  : 21
+Hex    : 11
+2's    : 0000000000010001
+---------------------------------
+Enter # for type of conversion (5 for list): 2
+Enter binary #: 111011
+
+---------------------------------
+Decimal: 59
+Octal  : 73
+Hex    : 3B
+2's    : 0000000000111011
+---------------------------------
+Enter # for type of conversion (5 for list): 3
+Enter Octal #: 412
+
+---------------------------------
+Decimal : 266
+Binary  : 100001010
+
+Hex     : 10A
+2's     : 0000000100001010
+---------------------------------
+Enter # for type of conversion (5 for list): 3
+Enter Octal #: 220 
+
+---------------------------------
+Decimal : 144
+Binary  : 10010000
+
+Hex     : 90
+2's     : 0000000010010000
+---------------------------------
+Enter # for type of conversion (5 for list): 4
+Enter Hex #: B34
+
+---------------------------------
+Decimal : 2868
+Binary  : 101100110100
+Octal   : 5464
+2's     : 0000101100110100
+---------------------------------
+Enter # for type of conversion (5 for list): 4
+Enter Hex #: cB2
+
+---------------------------------
+Decimal : 3250
+Binary  : 110010110010
+Octal   : 6262
+2's     : 0000110010110010
+---------------------------------
+Enter # for type of conversion (5 for list): 6
